@@ -1,0 +1,67 @@
+.rowsky{
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.6em;
+  letter-spacing: 2em;
+  
+  width: 100vw;
+  height: 30vh;
+   margin: 3px;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+     background: #000000;
+  color: #FFFFFF;
+}
+
+
+ 
+.rowground {font-family: 'Raleway', sans-serif;
+  font-size: 1.6em;
+  letter-spacing: 2em;
+  
+  width: 100vw;
+  height: 30vh;
+   margin: 3px;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #FFFFFF;
+  background:  #FFCFE7;
+}
+
+.bp{
+    width: 100vw;
+  height: 67vh;
+     
+}
+
+img:hover {
+	opacity: 0.8;}
+
+.rowone {
+    width: 100vw;
+  height: 85vh;
+   margin: 3px;
+  display: flex;   
+}
+
+.box1{
+  background: #FFCFE7;
+  width: 50vw;
+    height: 85vh;  
+    content:url("jennie.png")
+}	
+	
+.box2{
+  background: #000000;
+  width: 50vw;
+    height: 85vh;   
+}	
+
+.tubby{
+    content: url(jjk.gif);    
+}
+
+
